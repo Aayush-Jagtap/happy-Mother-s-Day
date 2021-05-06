@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-color: rgb(255, 189, 200);
+}
+img 
+{
+    width:300px;
+    height:200px;
+    box-shadow: 15px 15px 20px darkred;
+}
+#head
+{
+    color: red;
+}
+.gif
+{
+    height:500px;
+    width:200px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color:#6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+}
+#tk
+{
+    width: 500px;
+    height:500px;
+    font-size: 16px;
+    box-shadow: 10px 10px 1100px rgb(248, 2, 2);
+    border: 5px solid;
+}
+#button
+{
+    border-radius: 200;
+    font-size: large;
+}
+
